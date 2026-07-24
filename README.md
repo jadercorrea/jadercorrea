@@ -10,8 +10,8 @@ I have worked as a founder, CTO, engineering leader, and staff engineer. I do my
 
 ## Selected projects
 
-- [**GPTCode**](https://github.com/jadercorrea/gptcode) — Open-source coding-agent CLI with specialized research, planning, implementation, and review workflows; task-specific model routing; local-model support; reusable skills; and executable validation.
-- [**Zapfy**](https://www.zapfy.ai) — AI-native commerce and operations platform where agents use tools to manage products, inventory, orders, payments, fiscal workflows, and point-of-sale operations.
+- [**GPTCode**](https://github.com/jadercorrea/gptcode) — Extensible AI coding agent with multi-agent workflows, local models, and executable validation.
+- [**Zapfy**](https://www.zapfy.ai) — AI-native commerce platform where agents manage sales, operations, payments, and fiscal workflows.
 - [**pgroll_ex**](https://github.com/jadercorrea/pgroll_ex) — Elixir tooling that converts Ecto migrations into pgroll-compatible zero-downtime migrations.
 
 ## Selected experience
@@ -20,7 +20,7 @@ I have worked as a founder, CTO, engineering leader, and staff engineer. I do my
 - **Code Climate** — Helped evolve the architecture of Velocity and shipped capabilities that contributed approximately $1 million in annual recurring revenue. Combined staff-level implementation with architectural direction and mentorship.
 - **TransportAPI / First Bus** — Independently designed and built Elixir/OTP systems supporting real-time transportation applications used by more than 3 million passengers across 40+ UK cities.
 - **Industrial telemetry** — Developed distributed systems processing more than 50 million events per day across 14 manufacturing plants.
-- **Árvore** — Helped grow the engineering organization threefold while improving execution across products serving more than 2 million monthly users and supporting $5 million in commercial contracts.
+- **Árvore** — Helped grow the engineering organization threefold while improving execution across products serving more than 2 million monthly users.
 
 ## How I work
 
