@@ -1,6 +1,6 @@
 # Jader Correa
 
-Principal engineer building AI agents, developer tools, and distributed systems. Founder. Creator of GPTCode and Zapfy.
+Principal engineer building AI agents, developer tools, and distributed systems. Founder. Creator of [GPTCode](https://gptcode.dev) and Zapfy.
 
 I work at the intersection of product, architecture, and execution: turning ambiguous, high-impact problems into systems that ship, scale, and create measurable business value.
 
@@ -10,7 +10,7 @@ I have worked as a founder, CTO, engineering leader, and staff engineer. I do my
 
 ## Selected projects
 
-- [**GPTCode**](https://github.com/jadercorrea/gptcode) — Extensible AI coding agent with multi-agent workflows, local models, and executable validation.
+- [**GPTCode**](https://gptcode.dev) ([source](https://github.com/jadercorrea/gptcode)) — An open-source investigation into reliable coding agents: multi-model workflows, repository-native engineering knowledge, and executable validation.
 - [**Zapfy**](https://www.zapfy.ai) — AI-native commerce platform where agents manage sales, operations, payments, and fiscal workflows.
 - [**pgroll_ex**](https://github.com/jadercorrea/pgroll_ex) — Elixir tooling that converts Ecto migrations into pgroll-compatible zero-downtime migrations.
 
@@ -34,4 +34,6 @@ I use coding agents throughout this process, but keep authorization, product jud
 
 AI agents · agent evaluation and reliability · developer tools · distributed systems · PostgreSQL · Elixir · Go · TypeScript
 
-[Website](https://jader-correa.com) · [Zapfy](https://www.zapfy.ai)
+I am interested in Principal Engineer and senior staff-level roles where I can remain hands-on, set technical direction, and own consequential systems through production.
+
+[Website](https://jader-correa.com) · [GPTCode](https://gptcode.dev) · [Zapfy](https://www.zapfy.ai)
