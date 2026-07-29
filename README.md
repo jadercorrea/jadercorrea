@@ -10,7 +10,8 @@ I have worked as a founder, CTO, engineering leader, and staff engineer. I do my
 
 ## Selected projects
 
-- [**GPTCode**](https://gptcode.dev) ([source](https://github.com/jadercorrea/gptcode)) — An open-source investigation into reliable coding agents: multi-model workflows, repository-native engineering knowledge, and executable validation.
+- [**GPTCode**](https://gptcode.dev) ([source](https://github.com/jadercorrea/gptcode)) — An open-source investigation into reliable coding agents: multi-model workflows, repository-native engineering knowledge, and executable validation. The paper [*One Successful Agent Run Proves Almost Nothing*](https://gptcode.dev/blog/2026-07-29-one-successful-agent-run-proves-almost-nothing) documents the evaluation protocol and its limitations.
+- [**AI Experiments**](https://github.com/jadercorrea/ai-experiments) — Immutable, checksum-verified evidence releases containing agent configurations, patches, command logs, repository snapshots, verification results, and negative runs.
 - [**Zapfy**](https://www.zapfy.ai) — AI-native commerce platform where agents manage sales, operations, payments, and fiscal workflows.
 - [**pgroll_ex**](https://github.com/jadercorrea/pgroll_ex) — Elixir tooling that converts Ecto migrations into pgroll-compatible zero-downtime migrations.
 
